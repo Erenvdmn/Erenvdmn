@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@address.com">
+  <a href="mailto:erendmn47@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://linkedin.com/in/eren-dumann/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -36,7 +36,7 @@
 A Financial Risk Analyzer designed to evaluate and analyze risk for company financial funds. Check out the repository below:
 
 <div align="center">
-  <a href="https://github.com/Erenvdmn/FinansOer" target="_blank">
+  <a href="https://github.com/Erenvdmn/Finansoer_Test" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erenvdmn&repo=FinansOer&theme=tokyonight&hide_border=true" alt="FinansOer Project" />
   </a>
 </div>
