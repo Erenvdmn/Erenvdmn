@@ -37,7 +37,7 @@ A Financial Risk Analyzer designed to evaluate and analyze risk for company fina
 
 <div align="center">
   <a href="https://github.com/Erenvdmn/Finansoer_Test" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erenvdmn&repo=FinansOer&theme=tokyonight&hide_border=true" alt="FinansOer Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erenvdmn&repo=Finansoer_Test&theme=tokyonight&hide_border=true" alt="FinansOer Project" />
   </a>
 </div>
 
