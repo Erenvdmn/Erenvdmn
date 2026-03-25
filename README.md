@@ -26,7 +26,7 @@
 - 🌍 Studied Computer Science via **Erasmus+ at Universität Kassel, Germany**, focusing on Deep Learning and Advanced Algorithms.
 - 💻 Experienced **Full-Stack JavaScript Developer** (previously interned at Monkeys Team), building scalable REST APIs, reactive interfaces, and optimizing MongoDB queries.
 - 🤖 Deeply focused on **Machine Learning and LLMs**. Currently building RAG pipelines (LangChain, FAISS, Llama 3) and hybrid risk scoring engines using PyTorch and XGBoost.
-- 📱 Exploring native Android Development with Java and Kotlin.
+- 📱 Experianced in native Android Development with Java and Kotlin.
 - 🤝 Always looking for opportunities to write clean, maintainable code and solve complex problems through innovative technology.
 
 ---
@@ -47,8 +47,8 @@
     <td width="50%">
       <div align="center">
         <b>🔌 MyAirCharger: REST API Backend</b><br/>
-        <a href="https://github.com/Erenvdmn/MyAirCharger" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erenvdmn&repo=MyAirCharger&theme=tokyonight&hide_border=true" alt="MyAirCharger Project" />
+        <a href="https://github.com/Erenvdmn/My-Air-Charger-Api" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erenvdmn&repo=My-Air-Charger-Api&theme=tokyonight&hide_border=true" alt="MyAirCharger Project" />
         </a>
         <p align="left"><i>A scalable RESTful backend service for managing IoT charging devices using Node.js, Express, MongoDB, and JWT Auth.</i></p>
       </div>
