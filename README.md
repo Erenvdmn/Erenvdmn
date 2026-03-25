@@ -1,17 +1,17 @@
 ## Hi there 👋
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Eren+%F0%9F%91%8B;Computer+Engineering+Student;Full-Stack+%7C+ML+%7C+AI+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Eren+Duman+%F0%9F%91%8B;Computer+Engineering+Student;Full-Stack+%7C+Machine+Learning;Erasmus%2B+Alumnus" alt="Typing SVG" /></a>
 
 <p align="center">
-  I don't want to be a casual "vibe coder"—I'm on a journey to become a true problem-solving Engineer. 🚀
+  Bridging the gap between scalable Full-Stack architecture and advanced Machine Learning models. 🚀
 </p>
 
 <p align="center">
   <a href="mailto:erendmn47@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/eren-dumann/" target="_blank">
+  <a href="https://linkedin.com/in/eren-dumann" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -22,46 +22,73 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Senior Computer Engineering Student** with a passion for scalable systems and artificial intelligence.
-- 💻 Previously worked professionally as a **Jr. Full-Stack JavaScript Developer** and continuously improving my skills in that area.
-- 🤖 Currently diving deep into **Machine Learning (ML)** and **LLMs**. I'm actively working on **[FinansOer](https://github.com/Erenvdmn/Finansoer_Test)**, a Financial Risk Analyzer for company funds.
-- 🌱 Learning and building side projects in **AI Engineering**, **Docker**, and **Cloud Engineering**.
-- 🤝 Looking for opportunities and collaborations that will push my boundaries and improve my engineering vision.
-- 🤔 Always open to help and knowledge sharing in **Data Science** and **Machine Learning** (welp!).
+- 🎓 **Computer Engineering Undergraduate** at Inonu University (Expected Jan 2027) & Organization Team Member at **GDGOC**.
+- 🌍 Studied Computer Science via **Erasmus+ at Universität Kassel, Germany**, focusing on Deep Learning and Advanced Algorithms.
+- 💻 Experienced **Full-Stack JavaScript Developer** (previously interned at Monkeys Team), building scalable REST APIs, reactive interfaces, and optimizing MongoDB queries.
+- 🤖 Deeply focused on **Machine Learning and LLMs**. Currently building RAG pipelines (LangChain, FAISS, Llama 3) and hybrid risk scoring engines using PyTorch and XGBoost.
+- 📱 Exploring native Android Development with Java and Kotlin.
+- 🤝 Always looking for opportunities to write clean, maintainable code and solve complex problems through innovative technology.
 
 ---
 
-### 📂 Featured Project: FinansOer
+### 📂 Featured Projects
 
-A Financial Risk Analyzer designed to evaluate and analyze risk for company financial funds. Check out the repository below:
-
-<div align="center">
-  <a href="https://github.com/Erenvdmn/Finansoer_Test" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erenvdmn&repo=Finansoer_Test&theme=tokyonight&hide_border=true" alt="FinansOer Project" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <b>🤖 FinansOer: AI-Powered Risk Analyzer</b><br/>
+        <a href="https://github.com/Erenvdmn/Finansoer_Test" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erenvdmn&repo=Finansoer_Test&theme=tokyonight&hide_border=true" alt="FinansOer Project" />
+        </a>
+        <p align="left"><i>Built a hybrid risk scoring engine (PyTorch LSTM + XGBoost) and a RAG pipeline (LangChain, FAISS, Llama 3) with FastAPI.</i></p>
+      </div>
+    </td>
+    <td width="50%">
+      <div align="center">
+        <b>🔌 MyAirCharger: REST API Backend</b><br/>
+        <a href="https://github.com/Erenvdmn/MyAirCharger" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Erenvdmn&repo=MyAirCharger&theme=tokyonight&hide_border=true" alt="MyAirCharger Project" />
+        </a>
+        <p align="left"><i>A scalable RESTful backend service for managing IoT charging devices using Node.js, Express, MongoDB, and JWT Auth.</i></p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 💻 My Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFA500?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
