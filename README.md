@@ -24,7 +24,7 @@
 
 - 🎓 **Senior Computer Engineering Student** with a passion for scalable systems and artificial intelligence.
 - 💻 Previously worked professionally as a **Jr. Full-Stack JavaScript Developer** and continuously improving my skills in that area.
-- 🤖 Currently diving deep into **Machine Learning (ML)** and **LLMs**. I'm actively working on **[FinansOer](https://github.com/Erenvdmn/FinansOer)**, a Financial Risk Analyzer for company funds.
+- 🤖 Currently diving deep into **Machine Learning (ML)** and **LLMs**. I'm actively working on **[FinansOer](https://github.com/Erenvdmn/Finansoer_Test)**, a Financial Risk Analyzer for company funds.
 - 🌱 Learning and building side projects in **AI Engineering**, **Docker**, and **Cloud Engineering**.
 - 🤝 Looking for opportunities and collaborations that will push my boundaries and improve my engineering vision.
 - 🤔 Always open to help and knowledge sharing in **Data Science** and **Machine Learning** (welp!).
